@@ -13,7 +13,7 @@
 	],
     
     "config": {
-      "secure-http": "false" 
+      "secure-http": false 
     },
 
 	"require": {
